@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fastcommiter</h1>
-<h3 align="center">Software Developer | Full-Stack | Strong DSA & Problem Solving</h3>
+<h3 align="center">Aspiring Software Developer | Full-Stack | Strong DSA & Problem Solving</h3>
 
 ---
 
