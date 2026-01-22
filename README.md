@@ -39,7 +39,7 @@
 
 ## 🏆 Competitive Profiles
 <p>
-  <a href="https://leetcode.com/your_username/">
+  <a href="[https://leetcode.com/your_username/](https://leetcode.com/u/kunal162005/)">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/your_username/profile">
